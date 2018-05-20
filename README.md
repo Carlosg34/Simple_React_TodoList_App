@@ -1,5 +1,10 @@
 ## To run the app
-
+   - Download or clone project to local machine
+   - CD into it
+   - Run command `npm install`
+   - Run command `npm start`
+   
+    
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
