@@ -1,6 +1,6 @@
 ## To run the app
-   - Download or clone project to local machine
-   - CD into it with your command line
+   - Download or clone project into local machine
+   - CD into it with the command line
    - Run command `npm install`
    - Run command `npm start`
 
