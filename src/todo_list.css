@@ -6,8 +6,12 @@
     width: 165px;
     border-radius: 5px;
     border: none;
-    background-color: rgb(187, 187, 187);
+    background-color: rgb(214, 214, 214);
     font-size: 22px;
+}
+
+.todoListMain .header input:focus{
+    outline: none;
 }
 
 .todoListMain .header button {
@@ -27,6 +31,10 @@
     background-color: #003399;
     border: 2px solid #003399;
     cursor: pointer;
+}
+
+.todoListMain .header button:focus{
+    outline: none;
 }
 
 .todoListMain .theList {
